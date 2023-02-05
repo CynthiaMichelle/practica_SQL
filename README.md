@@ -3,6 +3,8 @@
 Ejecutando el script de generador_tablas:
 - Se crean las tablas con las columnas y tipos correspondientes
 - Se insertan los datos
+
+
 Ejecutando el script query:
 - Se ejecuta una query que muestra el resultado requerido.
 
